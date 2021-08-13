@@ -3,3 +3,7 @@
 3. Status
 4. Push
 5. Check in Server
+
+** Part 1 Completed **
+
+** Part 2 **
